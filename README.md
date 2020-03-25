@@ -1,1 +1,1 @@
-# 2st-DL-CVMarathon
+# 2nd-DL-CVMarathon
